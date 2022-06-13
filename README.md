@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshit Kumar</h1>
-<h3 align="center">A Passionate Front-End Web Developer From India.</h3>
+<h3 align="center">Full Stack Web Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitclub&label=Profile%20views&color=0e75b6&style=flat" alt="harshitclub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harshitclub" target="blank"><img src="https://img.shields.io/twitter/follow/harshitclub?logo=twitter&style=for-the-badge" alt="harshitclub" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 Full Stack Web Developer
 
 - 💬 Ask me about **JavaScript (ES6), React.Js, HTML5, and CSS3**
 
