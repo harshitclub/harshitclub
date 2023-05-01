@@ -1,17 +1,17 @@
 <h1>Harshit Kumar - Full Stack Web Developer</h1>
-<p>My name is Harshit Kumar, and I am a passionate full stack web developer. I specialize in building dynamic and modern websites and web applications that are not only visually stunning but also fully functional. My experience with the latest web technologies like React.js, Next.js, Node.js, and Express.js allows me to create efficient and robust web solutions that can meet even the most complex requirements.</p>
+<p align="justify">My name is Harshit Kumar, and I am a passionate full stack web developer. I specialize in building dynamic and modern websites and web applications that are not only visually stunning but also fully functional. My experience with the latest web technologies like React.js, Next.js, Node.js, and Express.js allows me to create efficient and robust web solutions that can meet even the most complex requirements.</p>
 <h2>Skills</h2>
 <h3>Frontend</h3>
 <table>
   <tbody>
     <tr>
-      <td>HTML5</td>
-      <td>CSS3</td>
-      <td>JavaScript</td>
-      <td>React.js</td>
-      <td>Next.js</td>
-      <td>Material UI</td>
-      <td>Bootstrap</td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">HTML5</a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS3</a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a></td>
+      <td><a href="https://react.dev/" target="_blank">React.js</a></td>
+      <td><a href="https://nextjs.org/" target="_blank">Next.js</a></td>
+      <td><a href="https://mui.com/" target="_blank">Material UI</a></td>
+      <td><a href="https://react-bootstrap.github.io/" target="_blank">Bootstrap</a></td>
     </tr>
   </tbody>
   </table>
@@ -19,10 +19,10 @@
 <table>
   <tbody>
     <tr>
-      <td>Node.js</td>
-      <td>Express.js</td>
-      <td>REST APIs</td>
-      <td>MongoDB</td>
+      <td><a href="https://nodejs.org/" target="_blank">Node.js</a></td>
+      <td><a href="https://expressjs.com/" target="_blank">Express.js</a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">REST APIs</a></td>
+      <td><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></td>
     </tr>
   </tbody>
   </table>
@@ -30,8 +30,8 @@
 <table>
   <tbody>
     <tr>
-      <td>Postman</td>
-      <td>Insomnia</td>
+      <td><a href="https://www.postman.com/" target="_blank">Postman</a></td>
+      <td><a href="https://insomnia.rest/" target="_blank">Insomnia</a></td>
     </tr>
   </tbody>
   </table>
@@ -40,7 +40,7 @@
   <tbody>
     <tr>
       <td>On-Page SEO</td>
-      <td>Firebase</td>
+      <td><a href="https://firebase.google.com/" target="_blank">Firebase</a></td>
     </tr>
   </tbody>
   </table>
@@ -54,7 +54,7 @@
         </tr>
       <tr>
         <td>Company</td>
-        <td>3a Learning Solutions India Pvt. Ltd.</td>
+        <td><a href="https://3alearningsolutions.com" target="_blank">3a Learning Solutions India Pvt. Ltd.</a></td>
       </tr>
       <tr>
         <td>Duration</td>
