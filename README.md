@@ -14,6 +14,7 @@
       <td>Bootstrap</td>
     </tr>
   </tbody>
+  </table>
   <h3>Backend</h3>
 <table>
   <tbody>
