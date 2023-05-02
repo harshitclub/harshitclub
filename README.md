@@ -1,4 +1,4 @@
-<h1>Harshit Kumar - Full Stack Web Developer</h1>
+<h1 style="font-weight: 500">Harshit Kumar - Full Stack Web Developer</h1>
 <p align="justify">My name is Harshit Kumar, and I am a passionate full stack web developer. I specialize in building dynamic and modern websites and web applications that are not only visually stunning but also fully functional. My experience with the latest web technologies like React.js, Next.js, Node.js, and Express.js allows me to create efficient and robust web solutions that can meet even the most complex requirements.</p>
 <h2>Skills</h2>
 <h3>Frontend</h3>
