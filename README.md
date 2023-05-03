@@ -5,13 +5,14 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">HTML5</a></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS3</a></td>
-      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a></td>
-      <td><a href="https://react.dev/" target="_blank">React.js</a></td>
-      <td><a href="https://nextjs.org/" target="_blank">Next.js</a></td>
-      <td><a href="https://mui.com/" target="_blank">Material UI</a></td>
-      <td><a href="https://react-bootstrap.github.io/" target="_blank">Bootstrap</a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a></td>
+      <td><a href="https://sass-lang.com/" target="_blank"><image src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a></td>
+      <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><image src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a></td>
+      <td><a href="https://react.dev/" target="_blank"><image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a></td>
+      <td><a href="https://nextjs.org/" target="_blank"><image src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a></td>
+      <td><a href="https://mui.com/" target="_blank"><image src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></a></td>
+      <td><a href="https://react-bootstrap.github.io/" target="_blank"><image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a></td>
     </tr>
   </tbody>
   </table>
@@ -19,10 +20,10 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://nodejs.org/" target="_blank">Node.js</a></td>
-      <td><a href="https://expressjs.com/" target="_blank">Express.js</a></td>
+      <td><a href="https://nodejs.org/" target="_blank"><image src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a></td>
+      <td><a href="https://expressjs.com/" target="_blank"><image src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a></td>
       <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/REST" target="_blank">REST APIs</a></td>
-      <td><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></td>
+      <td><a href="https://www.mongodb.com/" target="_blank"><image src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a></td>
     </tr>
   </tbody>
   </table>
@@ -30,8 +31,8 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://www.postman.com/" target="_blank">Postman</a></td>
-      <td><a href="https://insomnia.rest/" target="_blank">Insomnia</a></td>
+      <td><a href="https://www.postman.com/" target="_blank"><image src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a></td>
+      <td><a href="https://insomnia.rest/" target="_blank"><image src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/></a></td>
     </tr>
   </tbody>
   </table>
@@ -40,7 +41,7 @@
   <tbody>
     <tr>
       <td>On-Page SEO</td>
-      <td><a href="https://firebase.google.com/" target="_blank">Firebase</a></td>
+      <td><a href="https://firebase.google.com/" target="_blank"><image src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></a></td>
     </tr>
   </tbody>
   </table>
