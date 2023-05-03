@@ -9,10 +9,15 @@
       <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a></td>
       <td><a href="https://sass-lang.com/" target="_blank"><image src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a></td>
       <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><image src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a></td>
-      <td><a href="https://react.dev/" target="_blank"><image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a></td>
-      <td><a href="https://nextjs.org/" target="_blank"><image src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a></td>
-      <td><a href="https://mui.com/" target="_blank"><image src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></a></td>
-      <td><a href="https://react-bootstrap.github.io/" target="_blank"><image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a></td>
+    </tr>
+   
+  </tbody>
+  <tbody>
+  <tr>
+    <td><a href="https://react.dev/" target="_blank"><image src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a></td>
+    <td><a href="https://nextjs.org/" target="_blank"><image src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a></td>
+    <td><a href="https://mui.com/" target="_blank"><image src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></a></td>
+    <td><a href="https://react-bootstrap.github.io/" target="_blank"><image src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a></td>
     </tr>
   </tbody>
   </table>
