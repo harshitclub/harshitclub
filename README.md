@@ -65,28 +65,15 @@
   </table>
   
   <h2>Contact Harshit Kumar</h2>
-<table>
-    <tbody>
-      <tr>
-      <th>Social</th>
-      <th>Link</th>
-        </tr>
-      <tr>
-        <td>LinkedIn</td>
-        <td><a href="https://linkedin.com/in/harshitclub" target="_blank">https://linkedin.com/in/harshitclub</a></td>
-      </tr>
-      <tr>
-        <td>Twitter</td>
-       <td><a href="https://twitter.com/harshitclub" target="_blank">https://twitter.com/harshitclub</a></td>
-      </tr>
-      <tr>
-        <td>Instagram</td>
-       <td><a href="https://instagram.com/harshitclub" target="_blank">https://instagram.com/harshitclub</a></td>
-      </tr>
-    </tbody>
-  </table>
-  
-  <h3><a href="mailto: harshitclub@gmail.com">harshitclub@gmail.com</a></h3>
-  
-  <h2>Harshit Kumar Website</h2>
-  <h3><a href="https://www.harshitclub.com">harshitclub.com</a></h3>
+  <table>
+  <tbody>
+    <tr>
+      <td><a href="https://linkedin.com/in/harshitclub" target="_blank"><image src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
+      <td><a href="https://twitter.com/harshitclub" target="_blank"><image src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a></td>
+      <td><a href="https://instagram.com/harshitclub" target="_blank"><image src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a></td>
+      <td><a href="mailto:harshitclub@gmail.com"><image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<image src="https://github-readme-streak-stats.herokuapp.com/?user=harshitclub&theme=dark"/>
