@@ -65,7 +65,7 @@
       </tr>
       <tr>
         <td>Duration</td>
-        <td>2022 - Current</td>
+        <td>May 2022 - Current</td>
       </tr>
     </tbody>
   </table>
